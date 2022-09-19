@@ -2,7 +2,9 @@
 
 <div align="center">
   <div>
-    <h3>#1269D3Tech Stack</p>
+    <h3>Tech Stack</p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   </div>
 </div>
