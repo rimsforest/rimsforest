@@ -2,7 +2,7 @@
 
 <div align="center">
   <div>
-    <p>Tech Stack</p>
+    <h3>Tech Stack</p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   </div>
 </div>
